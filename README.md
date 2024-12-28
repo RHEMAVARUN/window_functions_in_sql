@@ -14,3 +14,9 @@ task_2 # codtech it solutions
 **MENTOR NAME**: Neela Santhosh Kumar
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS 
+
+# OUT PUT OF THE TASK
+
+**WINDOW FUNCTIONS**
+
+![Screenshot (6)](https://github.com/user-attachments/assets/a1f9fb26-f96b-4054-9a5c-02f8c919a44a)
