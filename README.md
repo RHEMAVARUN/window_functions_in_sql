@@ -15,8 +15,12 @@ task_2 # codtech it solutions
 
 # ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS 
 
-# OUT PUT OF THE TASK
+# OUT PUT OF THE TASK_2
 
 **WINDOW FUNCTIONS**
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/a1f9fb26-f96b-4054-9a5c-02f8c919a44a)
+
+**AGGREGATE FUNCTIONS**
+
+![Screenshot (7)](https://github.com/user-attachments/assets/7fcca721-5e68-49d4-a4a2-38c36c9bd500)
