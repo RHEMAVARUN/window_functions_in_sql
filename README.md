@@ -24,3 +24,7 @@ task_2 # codtech it solutions
 **AGGREGATE FUNCTIONS**
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/7fcca721-5e68-49d4-a4a2-38c36c9bd500)
+
+**VALUE FUNCTIONS**
+
+![Screenshot (8)](https://github.com/user-attachments/assets/e2970998-958f-446e-b87d-1ab6b5f25d1d)
