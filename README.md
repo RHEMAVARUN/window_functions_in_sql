@@ -28,4 +28,4 @@ task_2 # codtech it solutions
 
 **VALUE FUNCTIONS**
 
-![Screenshot (8)](https://github.com/user-attachments/assets/e2970998-958f-446e-b87d-1ab6b5f25d1d)
+![Screenshot (11)](https://github.com/user-attachments/assets/d51f3ae4-abd6-450f-af40-da5fcb25e28d)
