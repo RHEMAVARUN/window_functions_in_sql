@@ -18,11 +18,13 @@ task_2 # codtech it solutions
 # OUT PUT OF THE TASK_2
 
 **WINDOW FUNCTIONS**
+
 ![Screenshot (9)](https://github.com/user-attachments/assets/4615ebb1-3854-4096-8435-9f4988325539)
 
 **AGGREGATE FUNCTIONS**
 
-![Screenshot (7)](https://github.com/user-attachments/assets/7fcca721-5e68-49d4-a4a2-38c36c9bd500)
+![Screenshot (10)](https://github.com/user-attachments/assets/3ceac1af-ddfa-4845-9358-9d617d59d08d)
+
 
 **VALUE FUNCTIONS**
 
